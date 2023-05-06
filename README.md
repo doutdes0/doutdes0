@@ -4,7 +4,7 @@
 
 🏢 I am a pharmacist with ~8 years of experience in the process of broadening my career opportunities.
 
-📚 I've been studying non-stop from various sources since June 2022, at the moment I'm taking on this <a href='https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/'>udemy course</a>.
+📚 I've been studying non-stop from various sources since June 2022, at the moment I'm either deciding on a new project, designing or building it.
 
 💬 My english level is C1, I averaged 7.5 on the IELTS test in July 2022.
 
