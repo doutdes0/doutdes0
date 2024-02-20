@@ -13,7 +13,7 @@
 <h3>Skills</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,git,webpack,nodejs,bootstrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,jest,redux,html,css,git,webpack,nodejs,bootstrap&perline=10" />
   </a>
 </p>
 <hr>
